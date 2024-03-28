@@ -1,4 +1,4 @@
-### Hi there 👋
+### Katherine Moran a new software engineer. Enrolled in the Tech Elevator bootcamp 
 
 <!--
 **katherinelmoran/katherinelmoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
